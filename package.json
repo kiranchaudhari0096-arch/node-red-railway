@@ -1,0 +1,10 @@
+{
+  "name": "node-red-railway",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node-red"
+  },
+  "dependencies": {
+    "node-red": "^3.1.0"
+  }
+}
